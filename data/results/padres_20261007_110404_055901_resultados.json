@@ -1,0 +1,38 @@
+[
+    {
+        "fecha_analisis": "2026-10-07T11:04:04",
+        "grupo_padre": "A",
+        "grupo_madre": "B",
+        "porcentajes_descendencia": {
+            "A": 18.75,
+            "B": 18.75,
+            "AB": 56.25,
+            "O": 6.25
+        },
+        "suposicion": "Los genotipos posibles de cada grupo se consideran igual de probables."
+    },
+    {
+        "fecha_analisis": "2026-10-07T11:04:04",
+        "grupo_padre": "AB",
+        "grupo_madre": "O",
+        "porcentajes_descendencia": {
+            "A": 50.0,
+            "B": 50.0,
+            "AB": 0,
+            "O": 0
+        },
+        "suposicion": "Los genotipos posibles de cada grupo se consideran igual de probables."
+    },
+    {
+        "fecha_analisis": "2026-10-07T11:04:04",
+        "grupo_padre": "O",
+        "grupo_madre": "O",
+        "porcentajes_descendencia": {
+            "A": 0,
+            "B": 0,
+            "AB": 0,
+            "O": 100.0
+        },
+        "suposicion": "Los genotipos posibles de cada grupo se consideran igual de probables."
+    }
+]

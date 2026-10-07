@@ -1,0 +1,14 @@
+[
+    {
+        "grupo_padre": "A",
+        "grupo_madre": "B"
+    },
+    {
+        "grupo_padre": "AB",
+        "grupo_madre": "O"
+    },
+    {
+        "grupo_padre": "O",
+        "grupo_madre": "O"
+    }
+]
